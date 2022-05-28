@@ -6,5 +6,6 @@ public class helloworld {
         System.out.println("我的作业完成了!");
     }
 
+    int b = 1;
     int a = 1;
 }
